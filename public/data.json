@@ -1,0 +1,25 @@
+[
+    {
+    "id": 1,
+    "name": "anillos",
+    "price": 10,
+    "img": "https://i.pinimg.com/736x/21/9f/8f/219f8f0dc6dd1e8d5cfa9ede2661d71c.jpg",
+    "quanty": 1
+    },
+    {
+    "id": 2,
+    "name": "aretes",
+    "price": 10,
+    "img": "https://i.pinimg.com/736x/0b/88/05/0b880594d653812cd7d4a276f44e51a1.jpg",
+    "quanty": 1
+
+    },
+    {
+        "id": 3,
+    "name": "collares",
+    "price": 10,
+    "img": "https://i.pinimg.com/736x/7e/a3/3d/7ea33d6d3342933321d8f5ffe93d5419.jpg",
+    "quanty": 1
+
+    }
+]
